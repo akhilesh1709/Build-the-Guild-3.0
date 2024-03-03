@@ -4,6 +4,7 @@ This repository contains the code which contains the model designed for the comp
 
 Team members:
 1. Akhilesh T S
+2. Karthik Sriram V
 
 Institute name: SASTRA University
 
